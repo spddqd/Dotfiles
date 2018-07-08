@@ -2,7 +2,7 @@
 #!/usr/bin/env sh
 
 # Set wallpaper and colors in Xresources
-wal -i ~/Pictures/bg.png
+wal -i ~/Pictures/.wallpapers/
 
 # Terminate already running bar instances
 killall -q polybar
