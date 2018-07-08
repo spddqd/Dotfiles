@@ -1,0 +1,11 @@
+URxvt*scrollBar:         false
+URxvt*scrollBar_right:   false
+
+URxvt*transparent:       false
+
+Xft.dpi: 102
+URxvt.font: xft:SauceCodePro Nerd Font:size=10
+URxvt.letterSpace: -1
+
+*antialias:  true
+*autohint:   false
